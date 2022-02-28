@@ -1,9 +1,5 @@
 package botones;
 
-
-
-
-
 public class meGusta {
 	public static void main(String[] args) {
 		int[] lista = new int[100]; // Lista de números enteros que supondremos
