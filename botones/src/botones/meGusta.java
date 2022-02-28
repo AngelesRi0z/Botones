@@ -1,13 +1,12 @@
 package botones;
 
-import java.awt.*;
-import java.applet.Applet;
+
 
 
 
 public class meGusta {
 	public static void main(String[] args) {
-		int[] lista = new int[100]; // Lista de números enteros que supondremos
+		int[] lista = new int[100]; // Lista de nÃºmeros enteros que supondremos
 									
 		int contador = 0; // Declaramos e inicializamos el contador.
 
